@@ -27,3 +27,4 @@
 
 ## News
 * 🔥 **[2025/12/28]** Our work has been incorporated into the Zhuxing Programme of the School of Cyber Science!
+* 😭 **[2026/5/11]** Our work has been prohibited by the school of law! Any necessary access shall be obtained through self-downloading. No fee has ever been charged by us for this work, and any fee-charging use of our work is hereby declared unauthorized and illegal.
