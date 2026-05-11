@@ -16,8 +16,10 @@
 - 离散数学(2020AB, 2021AB,2022AB,2023AB)
 
 宪法学23fall、行政法学、民诉、民分为网安+法学单考，试题价值不大，仅涉及纯粹知识点的考察，不做整理 (也记不住了)
+
 24fall宪法学考试卷为23级法学班试卷，由LQaa同学回忆提供
-25fall宪法学考试卷为24级法学班试卷，由24级梁瀚同学回忆
+
+25fall宪法学考试卷为24级法学班试卷，由24级C6H12O6同学回忆
 ## 大二下更新
 大二下学期除了计算机网络和密码学以外其实都是属于文科类课程，我整理了商法学 (法)、网络空间安全法律基础 (网安)、刑法分论 (双)、刑事诉讼法 (法)、行政诉讼法 (法)的主观题，国际公法 (法)的复习题，以及一些复习材料，放在了我的GitHub仓库中，如果有无法访问的情况也可以私信我。其他科目没有整理的原因包括卷子针对双学位大幅降低难度、任课老师个性化命题情况较多、考完心态崩了没心情整理等。
 
@@ -27,4 +29,6 @@
 
 ## News
 * 🔥 **[2025/12/28]** Our work has been incorporated into the Zhuxing Programme of the School of Cyber Science!
-* 😭 **[2026/5/11]** Our work has been prohibited by the school of law! Any necessary access shall be obtained through self-downloading. No fee has ever been charged by us for this work, and any fee-charging use of our work is hereby declared unauthorized and illegal.
+* 😭 **[2026/5/11]** Our work has been prohibited by the School of Law!
+
+Any necessary access shall be obtained through self-downloading. No fee has ever been charged by us for this work, and any fee-charging use of our work is hereby declared unauthorized and illegal.
