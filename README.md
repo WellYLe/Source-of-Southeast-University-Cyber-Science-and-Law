@@ -32,3 +32,7 @@
 * 😭 **[2026/5/11]** Our work has been prohibited by the School of Law!
 
 Any necessary access shall be obtained through self-downloading. No fee has ever been charged by us for this work, and any fee-charging use of our work is hereby declared unauthorized and illegal.
+
+## 培养方案与办事资料
+
+新增 [网安学院培养方案与办事资料](网安/培养方案与办事资料/README.md)，含 2023 级培养方案、2027 届推免细则初稿（脱敏）、免听及人工补选空白申请表，以及学习资源友情链接。
